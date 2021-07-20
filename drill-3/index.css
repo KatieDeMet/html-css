@@ -1,0 +1,50 @@
+#container {
+    
+}
+
+#header {
+    width: 100vw;
+    height: 12.5vh;
+    background-color: #D8D8D8;
+    display: flex;
+}
+
+#bluebox {
+    background-color: #4A90E2;
+    height: 10vh;
+    width: 10vh;
+    margin: 1vh 5vh; 
+}
+
+#textbox {
+    width: 100vw;
+    height: 37.5vh;
+}
+
+#blue {
+    width: 100vw;
+    height: 12.5vh;
+    background-color: #4A90E2;
+}
+
+#aqua {
+    width: 100vw;
+    height: 12.5vh;
+    background-color: #50E3C2;
+}
+
+#green {
+    width: 100vw;
+    height: 12.5vh;
+    background-color: #B8E986;
+}
+
+#yellow {
+    width: 100vw;
+    height: 12.5vh;
+    background-color: #F8E71C;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
